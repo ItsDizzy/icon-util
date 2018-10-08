@@ -1,11 +1,9 @@
 {
-  "name": "icon-util",
-  "version": "0.1.0",
+  "name": "icon-utilities",
+  "version": "0.1.2",
   "description": "A simple node utility to generate icons for Electron and other programs",
   "main": "lib/index.js",
-  "bin": {
-    "icon-util": "lib/index.js"
-  },
+  "bin": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ItsDizzy/icon-util.git"
